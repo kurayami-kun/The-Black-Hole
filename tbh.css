@@ -53,7 +53,7 @@ a:hover{
         position:absolute;
         right:50%;
         bottom:50%;
-        transform: translate(50%,-460px) scale(2.5);
+        transform: translate(50%,-460px) scale(3);
     }
     .all{
         width:90%;
